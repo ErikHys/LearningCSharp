@@ -7,6 +7,7 @@ namespace HelloWorld
         public static void Test()
         {
             Console.Write("Static class");
+            //Test commit
         }
     }
 }

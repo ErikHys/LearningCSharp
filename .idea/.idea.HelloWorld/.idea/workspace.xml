@@ -4,7 +4,9 @@
     <projectFile>HelloWorld.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcf6b5c7-c059-4eea-94a2-0ecc025d6fa8" name="Default Changelist" comment="" />
+    <list default="true" id="bcf6b5c7-c059-4eea-94a2-0ecc025d6fa8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/GuessNumberGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GuessNumberGame.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +18,8 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/GuessNumberGame/Class1.cs" />
-      <option value="$PROJECT_DIR$/GuessNumberGame.cs" />
       <option value="$PROJECT_DIR$/Program.cs" />
+      <option value="$PROJECT_DIR$/GuessNumberGame.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1meWsflEF0qYqwuwdjtCNAzJMF1" />
@@ -63,7 +65,7 @@
       <updated>1609854745403</updated>
       <workItem from="1609854779497" duration="32000" />
       <workItem from="1609854931205" duration="669000" />
-      <workItem from="1609859354836" duration="960000" />
+      <workItem from="1609859354836" duration="1358000" />
     </task>
     <servers />
   </component>
