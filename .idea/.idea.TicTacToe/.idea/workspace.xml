@@ -4,14 +4,36 @@
     <projectFile>TicTacToe/TicTacToe.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d695fc8e-74c1-4237-b9cf-d99b02079168" name="Default Changelist" comment="" />
+    <list default="true" id="d695fc8e-74c1-4237-b9cf-d99b02079168" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/TicTacToe/MarkType.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TicTacToe/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TicTacToe/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TicTacToe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TicTacToe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe/MainWindow.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe/MainWindow.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe/obj/Debug/net5.0-windows/MainWindow.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe/obj/Debug/net5.0-windows/MainWindow.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe/obj/Debug/net5.0-windows/TicTacToe.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe/obj/Debug/net5.0-windows/TicTacToe.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe/obj/Debug/net5.0-windows/TicTacToe_MarkupCompile.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe/obj/Debug/net5.0-windows/TicTacToe_MarkupCompile.lref" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/TicTacToe/MarkType.cs" />
+      <option value="$PROJECT_DIR$/TicTacToe/MainWindow.xaml" />
+      <option value="$PROJECT_DIR$/TicTacToe/MainWindow.xaml.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1mhnXLLMeGFJyHSLeIvTQ6D0C8V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +42,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -54,14 +84,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609954728802</updated>
-      <workItem from="1609954746226" duration="288000" />
+      <workItem from="1609954746226" duration="6323000" />
+      <workItem from="1610023232657" duration="4316000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1609955212265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609955212265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -73,8 +112,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
